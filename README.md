@@ -1,7 +1,7 @@
 # real-time-client
 
 ## Server
-## Before starting choose your "script" in package.json
+### Before starting choose your "script" in package.json
 ### npm start - start server
 
 ## Client
